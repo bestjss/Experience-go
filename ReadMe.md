@@ -5,7 +5,7 @@
 - [tutorial](https://golang.org/doc/tutorial/getting-started)
 - [Tour](https://pkg.go.dev/golang.org/x/tour)
 - [External Packages](https://pkg.go.dev/)
-- [Support guyan0319/golang_development_notes 写的挺好的](https://github.com/guyan0319/golang_development_notes/)
+- [Thanks guyan0319/golang_development_notes](https://github.com/guyan0319/golang_development_notes/)
 
 ```sh
 # 安装Go
