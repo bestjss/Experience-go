@@ -5,4 +5,5 @@
     "go.useCodeSnippetsOnFunctionSuggest": true,
     "go.inferGopath": true,
     "go.useCodeSnippetsOnFunctionSuggestWithoutType": true,
+    "goOutliner.extendExplorerTab": true
 }
